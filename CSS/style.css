@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+body {
+  font-family: helvetica;
+  color: white;
+  background-color: white;
+  background:
+  url("https://d13yacurqjgara.cloudfront.net/users/163741/screenshots/1228007/dribbble_shot_hq.gif");
+  background-position: center;
+  background-size: cover;
+}
+h1 {
+  color: Black;
+  text-align: right;
+  font-family: Helvetica;
+  font-size: 50px;
+  }
+h2 {
+  color: white;
+  font-family: helvetica;
+  text-decoration: underline;
+}
+h3 {
+  color: white;
+  font-family: helvetica 
+}
+ul {
+  color: white;
+  font-weight: normal; 
+}
+p {
+  color: white;
+  font-weight: normal;
+}
