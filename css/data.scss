@@ -201,7 +201,7 @@ $d-neptune:             4498396441;
 .set-speed #sun dl.infos dd:after     { content: '0 km/h'; }
 .set-speed #mercury dl.infos dd:after { content: '170,503 km/h'; }
 .set-speed #venus dl.infos dd:after   { content: '126,074 km/h'; }
-.set-speed #earth dl.infos dd:after   { content: '107,218 km/h'; }
+.set-speed #earth dl.infos dd:after   { content: '66,622 mp/h'; }
 .set-speed #mars dl.infos dd:after    { content: '86,677 km/h'; }
 .set-speed #jupiter dl.infos dd:after { content: '47,002 km/h'; }
 .set-speed #saturn dl.infos dd:after  { content: '34,701 km/h'; }
@@ -214,8 +214,7 @@ $d-neptune:             4498396441;
 
 .set-size #sun dl.infos dd:after     { content: '4,370,005 km'; }
 .set-size #mercury dl.infos dd:after { content: '15,329 km'; }
-.set-size #venus dl.infos dd:after   { content: '38,024 km'; }
-.set-size #earth dl.infos dd:after   { content: '40,030 km'; }
+.set-size #venus dl.infos dd:after   { content: '24,873 mi'; }
 .set-size #mars dl.infos dd:after    { content: '21,296 km'; }
 .set-size #jupiter dl.infos dd:after { content: '439,263 km'; }
 .set-size #saturn dl.infos dd:after  { content: '365,882 km'; }
@@ -230,7 +229,7 @@ $d-neptune:             4498396441;
 .set-distance #sun dl.infos dd:after     { content: '149,598,262 km'; }
 .set-distance #mercury dl.infos dd:after { content: '57,909,227 km'; }
 .set-distance #venus dl.infos dd:after   { content: '108,209,475 km'; }
-.set-distance #earth dl.infos dd:after   { content: '149,598,262 km'; }
+.set-distance #earth dl.infos dd:after   { content: '92,956,050 mi'; }
 .set-distance #mars dl.infos dd:after    { content: '227,943,824 km'; }
 .set-distance #jupiter dl.infos dd:after { content: '778,340,821 km'; }
 .set-distance #saturn dl.infos dd:after  { content: '1,426,666,422 km'; }
