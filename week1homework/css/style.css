@@ -109,7 +109,7 @@ body {
 }
 
 .main-text {
- line-height: 1.6em;
+ line-height: normal;
 }
 
 .icon-row {
