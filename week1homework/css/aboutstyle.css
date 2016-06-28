@@ -10,6 +10,10 @@ h1 {
     text-align: center;
 }
 
+p {
+  	text-align:center;
+}
+
 .wrapper {
   padding: 100px;
   width: 500px;
