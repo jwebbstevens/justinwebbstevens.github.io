@@ -12,7 +12,24 @@ body {
   text-align: center;
   margin: 0 auto;
 }
+.social a {
+  width: 33%;
+  color: #a9a9a9;
+}
 
+.social a:hover {
+  color: #276cd6;
+}
+
+.social {
+  max-width: 240px;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: auto;
+  font-size: 1.4em;
+}
 .roles {
     font-size: 30px;
     height: 50px;
