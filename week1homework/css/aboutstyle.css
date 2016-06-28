@@ -3,6 +3,11 @@ body {
   background: #f1f1f1;
   color: #222;
   font-family: 'Open Sans', sans-serif;
+  
+}
+
+h1 {
+    text-align: center;
 }
 
 .wrapper {
@@ -41,3 +46,5 @@ body {
     height: 50px;
     transition: margin-top 1s ease-in-out;
 }
+
+
