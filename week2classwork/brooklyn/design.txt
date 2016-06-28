@@ -1,0 +1,14 @@
+General styles:
+Helvetica
+#656565
+
+Headlines:
+2px solid border
+100 font weight
+uppercase
+
+Brook+Lyn  -> 40px
+
+About and Press -> 26px
+
+Copy -> 14px, Georgia, italic

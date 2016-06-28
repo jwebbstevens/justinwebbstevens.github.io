@@ -1,0 +1,37 @@
+General Styles
+Lato (Google Font)
+18px
+line-height 1.5
+5px solid #cccccc Left Border
+
+Sartre's List
+54px
+#dd0000
+
+Better-Dressed People
+36px
+#888888
+
+Navigation
+#000000 background
+white text
+24px
+
+On the Street in Brooklyn, etc.
+36px 
+#000000
+
+11/12/13, etc.
+27px
+#cccccc
+
+Links
+No underline
+#dd0000
+
+Articles
+720px wide
+Solid border bottom #dddddd
+
+Paragraph color
+#444444

@@ -1,0 +1,13 @@
+Uses Normalize.css (included in css/)
+
+Uses Raleway (Google Font)
+
+Background Image - background.jpg
+
+Text Color: #000000
+
+Link Color: #ff3300
+
+Article Background Color: #ffffff
+
+Article Width: 700px

@@ -1,0 +1,47 @@
+General Styles
+Lato
+18px
+line-height 1.5
+
+Main container
+1080px wide, centered
+
+Sartre's List
+54px
+#dd0000
+
+Better-Dressed People
+36px
+#888888
+
+Navigation
+#000000 background
+white text
+24px
+
+On the Street in Brooklyn, etc.
+36px 
+#000000
+
+11/12/13, etc.
+27px
+#cccccc
+
+About Us, etc.
+27px
+#cccccc
+
+Sidebar
+320px wide
+#444444
+
+Links
+No underline
+#dd0000
+
+Articles
+720px wide
+Solid border bottom #dddddd
+
+Paragraph color
+#444444
