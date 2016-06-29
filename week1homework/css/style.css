@@ -58,7 +58,7 @@ body {
   padding: 20px;
   box-sizing: border-box;
   margin: auto;
-  font-size: 1.4em;
+  font-size: 2em;
 }
 
 .content {
@@ -98,7 +98,7 @@ body {
   line-height: 0;
   margin-top: -44px;
   margin-left: -20px;
-  font-size: .7em;
+  font-size: 3em;
   font-style: italic;
   color: gray;
   padding-bottom: 20px;
@@ -124,6 +124,10 @@ body {
   box-sizing: border-box;
   text-align: center;
   width: 480px;
+}
+
+.fa.fa.graduation-cap { 
+  color: #236B8E;
 }
 
 .fa.fa-truck { 
