@@ -110,6 +110,7 @@ body {
 
 .main-text {
  line-height: 1.6em;
+ text-align: justify;
 }
 
 .icon-row {
