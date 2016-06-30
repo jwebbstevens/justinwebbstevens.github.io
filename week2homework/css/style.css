@@ -1,0 +1,11 @@
+/* Simple CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 700px;
+  background: url("../images/header_bg.jpg") no-repeat center top;
+  background-size: cover;
+}
