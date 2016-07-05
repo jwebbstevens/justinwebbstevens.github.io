@@ -16,6 +16,8 @@ body{
   height: 700px;
   background: url("../images/header_bg.jpg");
   background-size: cover;
+  padding-left: 35;
+  color: #FFFFFF;
 }
 
 #getpiece{
