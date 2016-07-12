@@ -1,0 +1,44 @@
+Fonts
+-----
+Arial
+Georgia
+"Permanent Marker" (Google Font)
+
+Widths
+------
+Header - 100% (default)
+Header inner - 960px
+
+Hero - 100% (default)
+Hero inner - 960px
+
+Quote - 960px
+
+Homebox1, Homebox2, Homebox3 - 290px
+
+Footer - 100% (default)
+Footer inner - 960px
+
+Footer Widget 1, Widget 3 - 210px
+Footer Widget 2 - 400px
+
+Colors
+-------
+Anchor, Nav Hover BG
+#1FA2E1
+
+Header BG, Footer BG, Body Text
+#222222;
+
+Homebox photo border, blockquote border
+#eeeeee
+
+Footer text, footer
+#aaaaaa
+
+Footer widget title text
+#cccccc
+
+Footer dashed line
+#666666
+
