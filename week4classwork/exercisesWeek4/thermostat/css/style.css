@@ -1,0 +1,38 @@
+body {
+	color: white;
+	background-color: black;
+	font-family: Arial, sans-serif;
+	font-size: 40px;
+}
+
+#wrapper {
+	border: solid 10px white;
+	padding: 5px;
+	width: 180px;
+	margin: 40px auto;
+	position: relative;
+}
+
+#wrapper p {
+	float: left;
+}
+
+#currentTemp {
+	font-size: 80px;
+}
+
+#anchors {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+#anchors a {
+	cursor: pointer;
+}
+
+#label {
+	font-size: 20px;
+	clear: both;
+	text-align: right;
+	padding-top: 20px;
+}
